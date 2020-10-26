@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml:17:2-22:12
+INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml:17:2-22:12
+INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml:17:2-22:12
+	package
+		ADDED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml:18:5-40
+		INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+		INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml:17:12-70
+uses-sdk
+INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+		ADDED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+		INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+		ADDED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
+		INJECTED from S:\satya\AA Form\aa-form\aFileChooser\src\main\AndroidManifest.xml
